@@ -30,7 +30,7 @@ namespace QuadSignalRMsgs.HubResponces
         /// <summary>
         /// Gets the responce
         /// </summary>
-        public byte[] Responce
+        public byte[] ResponceForQuad
         {
             get
             {
