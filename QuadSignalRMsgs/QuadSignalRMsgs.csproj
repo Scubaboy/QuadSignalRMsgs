@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HubResponces\MsgResponce.cs" />
+    <Compile Include="HubResponces\Responce.cs" />
     <Compile Include="HubResponces\ReceiveResponce.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
